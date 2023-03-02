@@ -2,6 +2,8 @@
 
 ### Laravel <= 8.83.16 Remote Code Execution
 
+Follow me on Twitter : [RAVEN AM1](https://twitter.com/w31rdr4v3n/)
+
 I was working on a client's project on 24/02/2023 to test the security of his web application developed with Laravel.
 
 I identified a vulnerability in the image upload field that allows me to execute code remotely.
