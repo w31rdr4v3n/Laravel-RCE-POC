@@ -1,4 +1,4 @@
-# Laravel-RCE
+# Laravel RCE POC
 
 ### Laravel <= 8.83.16 Remote Code Execution
 
