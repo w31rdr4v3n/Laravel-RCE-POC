@@ -24,4 +24,6 @@ The upload worked fine and I have and remote code execution works fine.
 
 ![Exploit](datas/rce.png)
 
+![Exploit](datas/version.png)
+
 ###### Exploit: [Exploit](https://github.com/w31rdr4v3n/Laravel-RCE-/blob/main/rce.php)
